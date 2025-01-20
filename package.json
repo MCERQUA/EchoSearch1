@@ -1,0 +1,7 @@
+{
+    "name": "company-search-function",
+    "version": "1.0.0",
+    "dependencies": {
+      "serpapi": "^1.1.1"
+    }
+  }
